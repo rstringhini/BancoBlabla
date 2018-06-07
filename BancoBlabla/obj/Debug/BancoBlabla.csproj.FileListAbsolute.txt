@@ -1,0 +1,7 @@
+C:\Users\gabri\source\repos\BancoBlabla\BancoBlabla\bin\Debug\BancoBlabla.exe.config
+C:\Users\gabri\source\repos\BancoBlabla\BancoBlabla\bin\Debug\BancoBlabla.exe
+C:\Users\gabri\source\repos\BancoBlabla\BancoBlabla\bin\Debug\BancoBlabla.pdb
+C:\Users\gabri\source\repos\BancoBlabla\BancoBlabla\obj\Debug\BancoBlabla.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\BancoBlabla\BancoBlabla\obj\Debug\BancoBlabla.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\BancoBlabla\BancoBlabla\obj\Debug\BancoBlabla.exe
+C:\Users\gabri\source\repos\BancoBlabla\BancoBlabla\obj\Debug\BancoBlabla.pdb
